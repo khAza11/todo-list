@@ -1,0 +1,17 @@
+.MuiFormControl-root {
+    width: 100%;
+}
+
+.MuiSvgIcon-root {
+    color: #fff;
+}
+
+.MuiInputBase-root {
+    border: 1px solid #fff !important;
+    input {
+        color: #fff;
+        &::placeholder {
+            color: #fff !important;
+        }
+    }
+}
